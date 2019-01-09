@@ -1,1 +1,1 @@
-pytest-runner
+sqlite3

@@ -7,9 +7,25 @@ Please keep this updated with:
 
 # Installation
 For production environment
-python setup.py install
+
+`python setup.py install`
+
+
+
 or for development
-pip install -e .[dev]
+
+`pip install -e .[dev]`
+
+# Debugging run
+`cd src`
+
+`python main.py`
+
+## Downloading dataset
+
+
+To download mxm_dataset.db (metadata dataset)
+go to https://labrosa.ee.columbia.edu/millionsong/musixmatch and click on 'SQLite database'
 
 # Useful links
 - Ideas (google docs) https://docs.google.com/document/d/1SSLK0ZKXorjNFDZIGQ-Llr-PQKTmcMVVNDNFXqJk2VQ/edit?fbclid=IwAR3hUW6jxfmMIupFbpzg1DQYZ_2Exn2vrGnelz_t6URKkiTx4j4HDggExWI

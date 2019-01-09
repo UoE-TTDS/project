@@ -1,0 +1,4 @@
+datasets taken from
+https://labrosa.ee.columbia.edu/millionsong/pages/getting-dataset#subset
+
+https://labrosa.ee.columbia.edu/millionsong/musixmatch
