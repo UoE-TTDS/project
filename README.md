@@ -1,9 +1,12 @@
 # project
 
-Please keep this updated with: 
-- resources: papers, tutorials, existing code and inspiration...
-- code
-- I'll create a report template, please add information on anything you think we should mention/you are doing (don't worry about the shape, bullet points are fine)
+Current system structure / search strategy + task assignments & deadlines:
+https://docs.google.com/document/d/1vxa3G4tn1yTpiU4vgu4Bn-2dzv_HisDPKWi_KRwWOBU/edit?usp=sharing
+
+If you are using any papers/tutorials/existing code for your implementation, please add them to this ^^^^ document (in your section or where relevant)
+
+I'll start writing the report in the wiki section (as we go).
+
 
 # Installation
 For production environment
